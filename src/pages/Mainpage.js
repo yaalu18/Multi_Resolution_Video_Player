@@ -144,7 +144,7 @@ const Sevenvideo = () => {
 
   return (
     <div>
-      <p>Seventh video</p>
+      <h3>VIDEO PLAYER</h3>
       <video
         src={Naruto}
         ref={videoRef}
