@@ -15,3 +15,10 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+/*git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yaalu18/Videoplayer_Supports_Multipleresolutions2.git
+git push -u origin main*/
+//https://github.com/yaalu18/stackoverflow-clone

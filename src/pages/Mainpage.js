@@ -1,3 +1,4 @@
+//https://github.com/yaalu18/Multi_Resolution_Video_Player.git
 import React from 'react';
 import { useRef,useState,useEffect } from 'react';
 import Naruto from "../assets/Makinganime.mp4"
